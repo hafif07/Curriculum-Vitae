@@ -178,6 +178,10 @@ section.resume-section .resume-item .resume-date {
 .bg-prm {
   background-color: #027efa !important;
 }
+.img-size{
+  height: 100px;
+  width: 1000px
+}
 
 .text-primary {
   color: #2c3e50 !important;
