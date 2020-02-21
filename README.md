@@ -1,3 +1,3 @@
-# Alifian Adexe Resume
+# Muhammad Hafif Al Busyro
 
-this my resume, you will get my public information in this resume, so use it well.
+CV ini berisi tentang pribadi saya , semua informasi tentang diri saya .
